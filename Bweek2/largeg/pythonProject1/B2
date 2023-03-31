@@ -1,0 +1,7 @@
+from sklearn.preprocessing import StandardScaler
+from sklearn.feature_selection import SelectKBest
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.feature selection import f_regression
+filename = "D:/datasets/house_data.csv"
